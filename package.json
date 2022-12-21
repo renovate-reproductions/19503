@@ -1,0 +1,23 @@
+{
+  "name": "renovate-github-issue-link",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarongoldenthal/Renovate-GitHub-Issue-Link.git"
+  },
+  "keywords": [],
+  "author": "Aaron Goldenthal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aarongoldenthal/Renovate-GitHub-Issue-Link/issues"
+  },
+  "homepage": "https://github.com/aarongoldenthal/Renovate-GitHub-Issue-Link#readme",
+  "dependencies": {
+    "gitlab-ci-env": "^6.3.0"
+  }
+}
