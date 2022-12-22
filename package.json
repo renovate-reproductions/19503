@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/aarongoldenthal/Renovate-GitHub-Issue-Link#readme",
   "dependencies": {
-    "gitlab-ci-env": "6.3.0"
+    "gitlab-ci-env": "6.4.0"
   }
 }
